@@ -1,0 +1,11 @@
+### IDE Configuration
+
+## Visual Studio Code
+.vscode
+
+### Build Files
+
+## CMake
+
+# Build Directory
+Build
